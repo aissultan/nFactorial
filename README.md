@@ -1,7 +1,7 @@
 # nFactorial
 
 ## Applicant name:
-Aisultan Khalelov.
+Aisultan Khalelov
 
 ## Telegram:
 https://t.me/aissultannn
