@@ -1,12 +1,27 @@
 # nFactorial
 
-## Applicant name:
-Aisultan Khalelov
+## Имя апликанта:
+Айсултан Халелов
 
 ## Telegram:
 https://t.me/aissultannn
 
-### Comments to solution:
+### Комментарии к решению:
 
-In the main folder you will find two files with the solution of the "Bigram Language Model" task (the code in them is the same), one with comments and the other without.
+В основной папке вы найдете два файла с решением задачи "Bigram Language Model" (код в них один и тот же), один с комментариями, другой без.
 
+### Инструкция для запуска кода: 
+1. Скачайте файлы "names.txt" и "solution.py" в одну папку.
+2. Убедитесь, что на вашем компьютере установлены библиотеки Python, Matplotlib и Pandas. Если их нет, установите их с помощью команды pip install (название библиотеки) в командной строке.
+3. Откройте командную строку (для Windows) или терминал (для MacOS или Linux) и перейдите в папку, где находятся файлы "names.txt" и "solution.py". Для этого можно использовать команду cd (название папки).
+4. Для запуска программы введите команду python solution.py и нажмите Enter.
+5. На экране появится сгенерированное имя, а также таблица, показывающая вероятности биграмм.
+
+**Запускаемый файл:** solution.py
+
+**Библиотеки, которые используются в программе:**
+
+* string (встроенная в Python)
+* random (встроенная в Python)
+* matplotlib
+* pandas
